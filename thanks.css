@@ -1,0 +1,55 @@
+body{
+	background-color: #bbc2c6;
+    
+}
+
+.thankpage{
+    padding-top: 150px;
+    background-color: #bbc2c6;
+    color: #22485c;
+    text-align: center;
+}
+
+button{
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 1px 8px 1px 8px;
+    
+}
+
+button:hover {
+    background-color: #484d53;
+    color: white;
+}
+
+.footer{
+	background-color: rgba(48, 56, 60, 0.97);
+	margin-top: 200px;
+}
+
+.footer p{
+    color: azure;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+.contact-social{
+    text-align: center;
+	display: block;
+	list-style-type: none;
+	color: white;
+	font-size:20px;
+	line-height: 2px;
+	
+}
+
+.contact-social li {
+	display: inline-block;
+	padding:  5px;
+    
+}
+
+.contact-social i{
+    color: rgba(100, 121, 134, 0.97);
+}
